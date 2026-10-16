@@ -1,0 +1,10 @@
+--- Live Energy Forecaster Initialized ---
+Enter your environment details to estimate usage.
+
+Appliance Type: Air Conditioning
+Current Season: Summer
+Outdoor Temperature (in Celsius): 38
+Household Size (Number of people): 4
+Hour of the Day (0-23): 14
+
+>> Estimated Power Consumption: 2.77 kWh

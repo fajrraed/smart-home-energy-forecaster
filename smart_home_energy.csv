@@ -1,0 +1,1001 @@
+Home_ID,Date,Time,Appliance_Type,Outdoor_Temp,Season,Household_Size,Energy_kWh
+Home_4,2026-01-01,00:00,Air Conditioning,23.94,Fall,4,1.24
+Home_5,2026-01-01,01:00,Air Conditioning,6.84,Winter,3,1.19
+Home_3,2026-01-01,02:00,Air Conditioning,8.17,Winter,2,1.17
+Home_5,2026-01-01,03:00,Air Conditioning,28.93,Fall,1,0.36
+Home_5,2026-01-01,04:00,Lights,14.2,Spring,5,0.22
+Home_2,2026-01-01,05:00,Lights,29.33,Fall,5,1.08
+Home_3,2026-01-01,06:00,Oven,30.36,Summer,1,0.62
+Home_3,2026-01-01,07:00,Fridge,31.88,Summer,1,0.71
+Home_3,2026-01-01,08:00,Air Conditioning,34.42,Summer,2,2.41
+Home_5,2026-01-01,09:00,Oven,13.53,Spring,3,0.46
+Home_4,2026-01-01,10:00,Fridge,8.71,Winter,5,0.15
+Home_3,2026-01-01,11:00,Heater,20.03,Spring,2,1.33
+Home_5,2026-01-01,12:00,Lights,10.96,Spring,3,0.44
+Home_2,2026-01-01,13:00,Fridge,20.85,Spring,2,0.88
+Home_4,2026-01-01,14:00,Heater,25.34,Fall,5,0.15
+Home_2,2026-01-01,15:00,Fridge,24.6,Fall,1,1.03
+Home_4,2026-01-01,16:00,Lights,11.11,Spring,1,0.55
+Home_5,2026-01-01,17:00,Lights,2.17,Winter,3,1.36
+Home_1,2026-01-01,18:00,Oven,13.51,Spring,4,1.34
+Home_4,2026-01-01,19:00,Air Conditioning,1.13,Winter,3,0.56
+Home_2,2026-01-01,20:00,Fridge,33.27,Summer,4,1.36
+Home_5,2026-01-01,21:00,Fridge,9.87,Winter,2,1.49
+Home_4,2026-01-01,22:00,Heater,1.64,Winter,2,2.98
+Home_1,2026-01-01,23:00,Lights,-3.91,Winter,5,1.28
+Home_1,2026-01-02,00:00,Fridge,22.77,Fall,4,0.45
+Home_3,2026-01-02,01:00,Lights,22.39,Fall,5,0.91
+Home_3,2026-01-02,02:00,Fridge,9.65,Winter,1,0.19
+Home_2,2026-01-02,03:00,Oven,-1.92,Winter,4,0.23
+Home_4,2026-01-02,04:00,Air Conditioning,12.61,Spring,3,1.5
+Home_4,2026-01-02,05:00,Fridge,8.38,Winter,1,0.56
+Home_3,2026-01-02,06:00,Lights,24.12,Fall,1,1.15
+Home_4,2026-01-02,07:00,Oven,21.05,Spring,3,1.23
+Home_4,2026-01-02,08:00,Fridge,10.68,Spring,1,1.3
+Home_1,2026-01-02,09:00,Heater,4.37,Winter,4,3.07
+Home_3,2026-01-02,10:00,Air Conditioning,37.49,Summer,5,3.2
+Home_5,2026-01-02,11:00,Fridge,14.52,Spring,1,0.16
+Home_3,2026-01-02,12:00,Oven,24.6,Fall,4,0.68
+Home_5,2026-01-02,13:00,Heater,1.04,Winter,2,1.5
+Home_1,2026-01-02,14:00,Oven,15.88,Spring,4,0.13
+Home_2,2026-01-02,15:00,Oven,-3.82,Winter,5,0.6
+Home_4,2026-01-02,16:00,Heater,16.73,Spring,4,1.2
+Home_1,2026-01-02,17:00,Oven,36.45,Summer,3,0.89
+Home_4,2026-01-02,18:00,Heater,11.52,Spring,5,0.54
+Home_2,2026-01-02,19:00,Fridge,-3.32,Winter,2,1.02
+Home_2,2026-01-02,20:00,Heater,-3.67,Winter,3,2.18
+Home_1,2026-01-02,21:00,Heater,11.68,Spring,4,0.12
+Home_2,2026-01-02,22:00,Air Conditioning,1.88,Winter,5,1.17
+Home_5,2026-01-02,23:00,Heater,-4.0,Winter,2,2.07
+Home_2,2026-01-03,00:00,Heater,27.52,Fall,3,1.17
+Home_4,2026-01-03,01:00,Fridge,14.72,Spring,2,0.15
+Home_4,2026-01-03,02:00,Air Conditioning,7.44,Winter,4,1.27
+Home_4,2026-01-03,03:00,Lights,33.7,Summer,2,0.97
+Home_4,2026-01-03,04:00,Fridge,-0.01,Winter,1,0.89
+Home_5,2026-01-03,05:00,Fridge,36.1,Summer,3,0.97
+Home_3,2026-01-03,06:00,Lights,8.5,Winter,2,1.31
+Home_1,2026-01-03,07:00,Heater,33.2,Summer,4,0.92
+Home_4,2026-01-03,08:00,Oven,20.93,Spring,4,0.91
+Home_2,2026-01-03,09:00,Air Conditioning,30.55,Summer,2,3.09
+Home_4,2026-01-03,10:00,Oven,37.31,Summer,4,1.16
+Home_2,2026-01-03,11:00,Lights,7.4,Winter,5,0.72
+Home_2,2026-01-03,12:00,Fridge,36.33,Summer,5,1.09
+Home_4,2026-01-03,13:00,Fridge,11.75,Spring,5,0.64
+Home_5,2026-01-03,14:00,Air Conditioning,11.58,Spring,1,0.42
+Home_2,2026-01-03,15:00,Fridge,9.64,Winter,2,0.94
+Home_2,2026-01-03,16:00,Fridge,18.28,Spring,1,1.4
+Home_4,2026-01-03,17:00,Air Conditioning,1.63,Winter,4,1.4
+Home_2,2026-01-03,18:00,Air Conditioning,18.81,Spring,1,0.58
+Home_2,2026-01-03,19:00,Lights,18.29,Spring,4,0.84
+Home_4,2026-01-03,20:00,Fridge,27.76,Fall,4,0.4
+Home_4,2026-01-03,21:00,Fridge,30.85,Summer,3,1.49
+Home_1,2026-01-03,22:00,Lights,13.94,Spring,5,1.47
+Home_5,2026-01-03,23:00,Heater,8.0,Winter,4,2.87
+Home_5,2026-01-04,00:00,Heater,6.15,Winter,3,3.08
+Home_2,2026-01-04,01:00,Heater,3.37,Winter,5,3.42
+Home_5,2026-01-04,02:00,Lights,-2.52,Winter,4,0.93
+Home_2,2026-01-04,03:00,Fridge,9.73,Winter,4,0.17
+Home_1,2026-01-04,04:00,Lights,6.62,Winter,1,0.74
+Home_4,2026-01-04,05:00,Lights,36.56,Summer,1,1.04
+Home_4,2026-01-04,06:00,Heater,18.98,Spring,5,1.05
+Home_4,2026-01-04,07:00,Oven,9.93,Winter,4,0.62
+Home_5,2026-01-04,08:00,Fridge,19.96,Spring,2,1.42
+Home_1,2026-01-04,09:00,Heater,0.99,Winter,1,2.17
+Home_5,2026-01-04,10:00,Oven,14.09,Spring,5,0.8
+Home_5,2026-01-04,11:00,Oven,21.93,Spring,4,1.07
+Home_1,2026-01-04,12:00,Air Conditioning,16.02,Spring,4,1.08
+Home_1,2026-01-04,13:00,Fridge,12.28,Spring,2,1.01
+Home_1,2026-01-04,14:00,Oven,37.74,Summer,5,0.49
+Home_1,2026-01-04,15:00,Heater,32.85,Summer,4,0.32
+Home_4,2026-01-04,16:00,Air Conditioning,21.81,Spring,1,0.99
+Home_3,2026-01-04,17:00,Fridge,19.48,Spring,2,0.94
+Home_3,2026-01-04,18:00,Lights,21.69,Spring,5,0.35
+Home_1,2026-01-04,19:00,Heater,3.66,Winter,2,3.53
+Home_3,2026-01-04,20:00,Oven,11.99,Spring,1,0.74
+Home_3,2026-01-04,21:00,Oven,-3.3,Winter,5,1.03
+Home_1,2026-01-04,22:00,Heater,15.45,Spring,2,1.27
+Home_3,2026-01-04,23:00,Oven,18.35,Spring,3,0.34
+Home_5,2026-01-05,00:00,Air Conditioning,4.79,Winter,1,0.13
+Home_2,2026-01-05,01:00,Fridge,36.45,Summer,1,1.19
+Home_2,2026-01-05,02:00,Air Conditioning,34.11,Summer,1,2.53
+Home_1,2026-01-05,03:00,Oven,26.05,Fall,3,1.08
+Home_4,2026-01-05,04:00,Lights,17.94,Spring,3,1.27
+Home_1,2026-01-05,05:00,Fridge,32.41,Summer,4,1.22
+Home_4,2026-01-05,06:00,Fridge,0.62,Winter,2,1.45
+Home_2,2026-01-05,07:00,Heater,28.99,Fall,4,0.85
+Home_1,2026-01-05,08:00,Heater,0.37,Winter,2,1.93
+Home_5,2026-01-05,09:00,Lights,29.15,Fall,3,0.66
+Home_3,2026-01-05,10:00,Fridge,6.86,Winter,3,0.32
+Home_4,2026-01-05,11:00,Lights,32.71,Summer,4,0.9
+Home_3,2026-01-05,12:00,Heater,35.59,Summer,5,0.49
+Home_3,2026-01-05,13:00,Heater,1.4,Winter,4,2.46
+Home_1,2026-01-05,14:00,Fridge,14.9,Spring,2,0.92
+Home_3,2026-01-05,15:00,Air Conditioning,37.18,Summer,4,2.71
+Home_5,2026-01-05,16:00,Oven,15.79,Spring,1,0.6
+Home_3,2026-01-05,17:00,Heater,32.13,Summer,2,0.17
+Home_1,2026-01-05,18:00,Heater,20.32,Spring,2,0.14
+Home_5,2026-01-05,19:00,Air Conditioning,11.14,Spring,5,0.69
+Home_2,2026-01-05,20:00,Air Conditioning,7.29,Winter,3,0.22
+Home_3,2026-01-05,21:00,Lights,3.74,Winter,2,0.95
+Home_1,2026-01-05,22:00,Lights,27.76,Fall,3,1.33
+Home_2,2026-01-05,23:00,Oven,11.62,Spring,4,1.34
+Home_2,2026-01-06,00:00,Oven,16.98,Spring,1,1.02
+Home_4,2026-01-06,01:00,Fridge,16.17,Spring,5,0.4
+Home_5,2026-01-06,02:00,Lights,19.82,Spring,3,1.31
+Home_3,2026-01-06,03:00,Heater,32.22,Summer,2,1.34
+Home_1,2026-01-06,04:00,Lights,37.17,Summer,3,0.38
+Home_4,2026-01-06,05:00,Heater,12.53,Spring,2,1.13
+Home_5,2026-01-06,06:00,Air Conditioning,30.58,Summer,3,2.81
+Home_4,2026-01-06,07:00,Lights,27.87,Fall,2,1.22
+Home_5,2026-01-06,08:00,Air Conditioning,19.66,Spring,4,1.5
+Home_5,2026-01-06,09:00,Oven,36.11,Summer,2,0.14
+Home_3,2026-01-06,10:00,Oven,3.62,Winter,2,1.36
+Home_5,2026-01-06,11:00,Fridge,-0.3,Winter,1,0.97
+Home_4,2026-01-06,12:00,Lights,31.72,Summer,2,1.46
+Home_5,2026-01-06,13:00,Air Conditioning,13.88,Spring,1,0.75
+Home_3,2026-01-06,14:00,Heater,31.42,Summer,5,1.29
+Home_3,2026-01-06,15:00,Oven,33.4,Summer,1,0.19
+Home_4,2026-01-06,16:00,Oven,-2.31,Winter,4,0.57
+Home_2,2026-01-06,17:00,Heater,32.99,Summer,1,0.19
+Home_2,2026-01-06,18:00,Air Conditioning,14.28,Spring,5,1.47
+Home_5,2026-01-06,19:00,Air Conditioning,16.95,Spring,4,1.24
+Home_1,2026-01-06,20:00,Lights,21.94,Spring,3,1.29
+Home_5,2026-01-06,21:00,Lights,34.83,Summer,3,1.41
+Home_4,2026-01-06,22:00,Fridge,-4.18,Winter,1,0.22
+Home_4,2026-01-06,23:00,Oven,15.5,Spring,1,0.64
+Home_4,2026-01-07,00:00,Lights,24.57,Fall,5,0.2
+Home_4,2026-01-07,01:00,Air Conditioning,26.08,Fall,5,0.4
+Home_4,2026-01-07,02:00,Heater,24.78,Fall,2,0.42
+Home_3,2026-01-07,03:00,Air Conditioning,0.78,Winter,5,0.76
+Home_2,2026-01-07,04:00,Oven,7.87,Winter,2,0.48
+Home_4,2026-01-07,05:00,Air Conditioning,10.42,Spring,4,0.24
+Home_1,2026-01-07,06:00,Fridge,29.59,Fall,1,0.33
+Home_1,2026-01-07,07:00,Oven,6.99,Winter,4,0.31
+Home_1,2026-01-07,08:00,Heater,4.06,Winter,5,3.43
+Home_1,2026-01-07,09:00,Fridge,36.17,Summer,4,1.16
+Home_3,2026-01-07,10:00,Oven,-4.62,Winter,4,1.45
+Home_1,2026-01-07,11:00,Heater,37.91,Summer,4,0.72
+Home_4,2026-01-07,12:00,Fridge,24.1,Fall,5,0.49
+Home_5,2026-01-07,13:00,Fridge,30.62,Summer,4,1.22
+Home_1,2026-01-07,14:00,Oven,7.67,Winter,2,0.56
+Home_3,2026-01-07,15:00,Lights,-4.38,Winter,5,0.52
+Home_3,2026-01-07,16:00,Fridge,26.73,Fall,4,0.43
+Home_1,2026-01-07,17:00,Fridge,30.87,Summer,5,0.28
+Home_5,2026-01-07,18:00,Heater,26.84,Fall,3,0.46
+Home_1,2026-01-07,19:00,Air Conditioning,1.14,Winter,2,0.6
+Home_3,2026-01-07,20:00,Oven,27.4,Fall,4,1.04
+Home_2,2026-01-07,21:00,Oven,28.06,Fall,3,0.19
+Home_4,2026-01-07,22:00,Lights,23.32,Fall,3,0.39
+Home_3,2026-01-07,23:00,Lights,27.94,Fall,5,1.23
+Home_1,2026-01-08,00:00,Oven,31.37,Summer,3,0.31
+Home_4,2026-01-08,01:00,Lights,21.38,Spring,2,0.58
+Home_1,2026-01-08,02:00,Heater,-1.19,Winter,2,2.38
+Home_1,2026-01-08,03:00,Oven,15.97,Spring,1,0.32
+Home_2,2026-01-08,04:00,Lights,-1.66,Winter,2,0.22
+Home_4,2026-01-08,05:00,Oven,12.52,Spring,3,0.78
+Home_4,2026-01-08,06:00,Air Conditioning,12.51,Spring,2,0.52
+Home_2,2026-01-08,07:00,Fridge,-2.16,Winter,5,0.89
+Home_3,2026-01-08,08:00,Oven,10.0,Winter,1,1.23
+Home_1,2026-01-08,09:00,Fridge,-0.23,Winter,3,0.29
+Home_5,2026-01-08,10:00,Lights,29.75,Fall,1,0.91
+Home_1,2026-01-08,11:00,Fridge,35.75,Summer,3,0.81
+Home_1,2026-01-08,12:00,Oven,-1.89,Winter,5,0.3
+Home_3,2026-01-08,13:00,Air Conditioning,36.07,Summer,1,3.89
+Home_1,2026-01-08,14:00,Lights,17.47,Spring,4,0.48
+Home_2,2026-01-08,15:00,Oven,7.88,Winter,3,0.78
+Home_2,2026-01-08,16:00,Lights,-1.69,Winter,4,0.22
+Home_4,2026-01-08,17:00,Heater,16.53,Spring,1,0.74
+Home_5,2026-01-08,18:00,Fridge,29.16,Fall,4,0.53
+Home_1,2026-01-08,19:00,Heater,25.4,Fall,4,1.25
+Home_1,2026-01-08,20:00,Oven,-2.84,Winter,1,0.18
+Home_3,2026-01-08,21:00,Air Conditioning,-1.87,Winter,5,0.69
+Home_2,2026-01-08,22:00,Lights,12.32,Spring,4,0.74
+Home_5,2026-01-08,23:00,Fridge,7.7,Winter,4,1.12
+Home_4,2026-01-09,00:00,Lights,4.99,Winter,5,0.9
+Home_2,2026-01-09,01:00,Oven,7.08,Winter,4,1.03
+Home_4,2026-01-09,02:00,Lights,29.55,Fall,4,1.19
+Home_3,2026-01-09,03:00,Fridge,34.96,Summer,4,1.31
+Home_3,2026-01-09,04:00,Oven,12.42,Spring,2,0.54
+Home_1,2026-01-09,05:00,Lights,33.96,Summer,5,0.85
+Home_5,2026-01-09,06:00,Air Conditioning,8.82,Winter,4,1.28
+Home_4,2026-01-09,07:00,Oven,15.49,Spring,5,1.49
+Home_2,2026-01-09,08:00,Oven,4.72,Winter,3,1.35
+Home_3,2026-01-09,09:00,Air Conditioning,22.54,Fall,3,0.62
+Home_1,2026-01-09,10:00,Heater,37.1,Summer,4,0.37
+Home_1,2026-01-09,11:00,Fridge,20.95,Spring,5,0.79
+Home_4,2026-01-09,12:00,Heater,10.39,Spring,5,1.14
+Home_3,2026-01-09,13:00,Lights,22.86,Fall,5,0.79
+Home_5,2026-01-09,14:00,Air Conditioning,0.29,Winter,2,0.78
+Home_3,2026-01-09,15:00,Heater,33.21,Summer,3,1.27
+Home_4,2026-01-09,16:00,Oven,16.63,Spring,5,0.61
+Home_4,2026-01-09,17:00,Lights,14.32,Spring,5,1.3
+Home_3,2026-01-09,18:00,Lights,20.19,Spring,2,0.67
+Home_4,2026-01-09,19:00,Heater,21.87,Spring,2,0.56
+Home_3,2026-01-09,20:00,Heater,-1.91,Winter,5,3.0
+Home_2,2026-01-09,21:00,Air Conditioning,24.35,Fall,1,1.17
+Home_3,2026-01-09,22:00,Fridge,5.4,Winter,5,0.28
+Home_3,2026-01-09,23:00,Heater,25.7,Fall,5,0.37
+Home_4,2026-01-10,00:00,Heater,30.37,Summer,2,1.43
+Home_4,2026-01-10,01:00,Oven,29.57,Fall,2,0.35
+Home_1,2026-01-10,02:00,Lights,18.76,Spring,5,0.89
+Home_1,2026-01-10,03:00,Fridge,17.37,Spring,5,0.91
+Home_2,2026-01-10,04:00,Oven,1.14,Winter,5,0.79
+Home_1,2026-01-10,05:00,Air Conditioning,28.34,Fall,2,1.0
+Home_3,2026-01-10,06:00,Air Conditioning,6.67,Winter,5,0.42
+Home_4,2026-01-10,07:00,Heater,16.36,Spring,5,0.87
+Home_1,2026-01-10,08:00,Heater,7.22,Winter,4,2.07
+Home_1,2026-01-10,09:00,Air Conditioning,0.75,Winter,1,1.03
+Home_2,2026-01-10,10:00,Heater,22.07,Fall,3,0.3
+Home_2,2026-01-10,11:00,Fridge,-2.66,Winter,1,0.9
+Home_3,2026-01-10,12:00,Heater,27.19,Fall,4,0.36
+Home_4,2026-01-10,13:00,Lights,8.66,Winter,3,0.49
+Home_2,2026-01-10,14:00,Heater,-4.99,Winter,5,1.52
+Home_1,2026-01-10,15:00,Oven,16.98,Spring,4,0.36
+Home_4,2026-01-10,16:00,Fridge,-2.99,Winter,5,1.26
+Home_4,2026-01-10,17:00,Oven,6.88,Winter,2,0.5
+Home_1,2026-01-10,18:00,Oven,25.4,Fall,4,1.4
+Home_2,2026-01-10,19:00,Lights,-2.3,Winter,2,1.46
+Home_1,2026-01-10,20:00,Fridge,31.09,Summer,4,0.9
+Home_4,2026-01-10,21:00,Fridge,-4.84,Winter,4,0.3
+Home_5,2026-01-10,22:00,Fridge,5.61,Winter,2,0.62
+Home_5,2026-01-10,23:00,Fridge,26.86,Fall,3,1.22
+Home_3,2026-01-11,00:00,Fridge,8.6,Winter,1,0.61
+Home_1,2026-01-11,01:00,Lights,-0.62,Winter,5,0.22
+Home_1,2026-01-11,02:00,Heater,10.49,Spring,4,0.88
+Home_3,2026-01-11,03:00,Oven,6.63,Winter,5,1.28
+Home_3,2026-01-11,04:00,Fridge,31.24,Summer,2,1.21
+Home_3,2026-01-11,05:00,Heater,8.47,Winter,5,1.6
+Home_4,2026-01-11,06:00,Heater,28.92,Fall,2,1.04
+Home_1,2026-01-11,07:00,Oven,33.35,Summer,5,0.41
+Home_4,2026-01-11,08:00,Lights,13.65,Spring,1,0.41
+Home_3,2026-01-11,09:00,Air Conditioning,34.13,Summer,1,3.01
+Home_1,2026-01-11,10:00,Air Conditioning,11.22,Spring,1,0.45
+Home_4,2026-01-11,11:00,Heater,36.46,Summer,1,0.47
+Home_4,2026-01-11,12:00,Oven,-1.16,Winter,1,0.1
+Home_3,2026-01-11,13:00,Air Conditioning,24.54,Fall,1,1.32
+Home_1,2026-01-11,14:00,Heater,16.23,Spring,2,1.21
+Home_3,2026-01-11,15:00,Lights,11.67,Spring,4,0.98
+Home_1,2026-01-11,16:00,Air Conditioning,22.21,Fall,5,1.15
+Home_5,2026-01-11,17:00,Heater,25.27,Fall,1,0.31
+Home_2,2026-01-11,18:00,Heater,-4.81,Winter,2,1.93
+Home_2,2026-01-11,19:00,Fridge,2.18,Winter,2,0.59
+Home_2,2026-01-11,20:00,Lights,25.66,Fall,2,0.23
+Home_3,2026-01-11,21:00,Fridge,23.65,Fall,4,0.78
+Home_5,2026-01-11,22:00,Oven,36.54,Summer,5,1.39
+Home_1,2026-01-11,23:00,Fridge,27.72,Fall,4,0.16
+Home_4,2026-01-12,00:00,Fridge,35.88,Summer,3,0.51
+Home_1,2026-01-12,01:00,Air Conditioning,25.21,Fall,2,0.39
+Home_4,2026-01-12,02:00,Heater,7.82,Winter,3,2.21
+Home_1,2026-01-12,03:00,Lights,-0.47,Winter,1,1.37
+Home_5,2026-01-12,04:00,Fridge,28.62,Fall,1,0.76
+Home_4,2026-01-12,05:00,Lights,22.7,Fall,4,0.75
+Home_3,2026-01-12,06:00,Fridge,-2.93,Winter,5,1.16
+Home_1,2026-01-12,07:00,Oven,10.48,Spring,3,0.32
+Home_1,2026-01-12,08:00,Fridge,36.14,Summer,5,0.78
+Home_4,2026-01-12,09:00,Air Conditioning,16.52,Spring,4,0.7
+Home_3,2026-01-12,10:00,Heater,13.61,Spring,1,0.94
+Home_3,2026-01-12,11:00,Oven,14.68,Spring,5,1.5
+Home_5,2026-01-12,12:00,Fridge,3.98,Winter,5,1.18
+Home_3,2026-01-12,13:00,Lights,10.85,Spring,1,0.66
+Home_3,2026-01-12,14:00,Oven,10.9,Spring,3,1.26
+Home_3,2026-01-12,15:00,Oven,-2.75,Winter,1,0.34
+Home_2,2026-01-12,16:00,Fridge,28.01,Fall,5,0.14
+Home_5,2026-01-12,17:00,Oven,12.91,Spring,3,0.39
+Home_1,2026-01-12,18:00,Lights,30.35,Summer,3,0.58
+Home_4,2026-01-12,19:00,Oven,31.56,Summer,1,0.81
+Home_1,2026-01-12,20:00,Lights,4.12,Winter,5,0.96
+Home_5,2026-01-12,21:00,Fridge,23.27,Fall,4,1.37
+Home_4,2026-01-12,22:00,Heater,15.31,Spring,5,0.81
+Home_5,2026-01-12,23:00,Oven,32.85,Summer,2,0.8
+Home_3,2026-01-13,00:00,Heater,4.28,Winter,4,1.54
+Home_4,2026-01-13,01:00,Lights,24.15,Fall,3,0.15
+Home_3,2026-01-13,02:00,Oven,21.13,Spring,4,0.87
+Home_1,2026-01-13,03:00,Air Conditioning,7.7,Winter,3,0.71
+Home_1,2026-01-13,04:00,Heater,0.87,Winter,3,2.81
+Home_4,2026-01-13,05:00,Oven,23.02,Fall,4,0.32
+Home_4,2026-01-13,06:00,Heater,26.76,Fall,3,0.13
+Home_5,2026-01-13,07:00,Oven,8.57,Winter,3,0.73
+Home_5,2026-01-13,08:00,Fridge,22.73,Fall,2,0.43
+Home_3,2026-01-13,09:00,Heater,11.99,Spring,5,0.17
+Home_4,2026-01-13,10:00,Air Conditioning,25.67,Fall,5,1.11
+Home_1,2026-01-13,11:00,Air Conditioning,3.57,Winter,2,0.26
+Home_5,2026-01-13,12:00,Lights,33.28,Summer,4,0.95
+Home_5,2026-01-13,13:00,Oven,7.36,Winter,1,0.49
+Home_1,2026-01-13,14:00,Heater,10.81,Spring,1,0.34
+Home_5,2026-01-13,15:00,Lights,-2.5,Winter,1,0.63
+Home_3,2026-01-13,16:00,Heater,-0.2,Winter,2,3.71
+Home_4,2026-01-13,17:00,Oven,17.18,Spring,2,0.65
+Home_1,2026-01-13,18:00,Air Conditioning,6.51,Winter,3,1.15
+Home_4,2026-01-13,19:00,Fridge,30.93,Summer,1,0.28
+Home_5,2026-01-13,20:00,Air Conditioning,-4.37,Winter,4,1.18
+Home_5,2026-01-13,21:00,Lights,11.3,Spring,4,0.43
+Home_1,2026-01-13,22:00,Fridge,9.51,Winter,1,1.05
+Home_3,2026-01-13,23:00,Lights,-4.17,Winter,1,0.89
+Home_2,2026-01-14,00:00,Oven,0.35,Winter,1,1.4
+Home_1,2026-01-14,01:00,Fridge,12.79,Spring,2,0.64
+Home_2,2026-01-14,02:00,Lights,16.19,Spring,2,0.19
+Home_2,2026-01-14,03:00,Oven,12.38,Spring,2,0.13
+Home_3,2026-01-14,04:00,Air Conditioning,17.83,Spring,5,1.26
+Home_2,2026-01-14,05:00,Oven,20.59,Spring,4,0.83
+Home_2,2026-01-14,06:00,Heater,-4.57,Winter,4,3.21
+Home_3,2026-01-14,07:00,Oven,14.96,Spring,3,0.43
+Home_2,2026-01-14,08:00,Oven,36.43,Summer,2,0.58
+Home_2,2026-01-14,09:00,Heater,17.32,Spring,5,0.14
+Home_2,2026-01-14,10:00,Lights,24.13,Fall,5,1.45
+Home_1,2026-01-14,11:00,Lights,8.41,Winter,4,1.04
+Home_1,2026-01-14,12:00,Oven,28.28,Fall,2,1.41
+Home_1,2026-01-14,13:00,Heater,28.24,Fall,3,0.47
+Home_3,2026-01-14,14:00,Heater,17.42,Spring,2,0.96
+Home_5,2026-01-14,15:00,Air Conditioning,36.97,Summer,1,3.97
+Home_2,2026-01-14,16:00,Lights,0.4,Winter,2,0.54
+Home_2,2026-01-14,17:00,Fridge,-4.27,Winter,1,1.29
+Home_3,2026-01-14,18:00,Lights,28.12,Fall,1,1.43
+Home_2,2026-01-14,19:00,Lights,29.71,Fall,3,1.34
+Home_1,2026-01-14,20:00,Air Conditioning,0.17,Winter,4,1.13
+Home_5,2026-01-14,21:00,Fridge,6.42,Winter,2,0.49
+Home_4,2026-01-14,22:00,Air Conditioning,-4.25,Winter,1,0.49
+Home_2,2026-01-14,23:00,Fridge,7.61,Winter,2,1.45
+Home_1,2026-01-15,00:00,Oven,28.25,Fall,4,0.11
+Home_4,2026-01-15,01:00,Fridge,17.27,Spring,4,1.1
+Home_5,2026-01-15,02:00,Air Conditioning,9.97,Winter,5,1.09
+Home_4,2026-01-15,03:00,Lights,10.98,Spring,4,0.97
+Home_1,2026-01-15,04:00,Fridge,-4.94,Winter,3,1.49
+Home_4,2026-01-15,05:00,Fridge,7.89,Winter,1,0.54
+Home_3,2026-01-15,06:00,Heater,22.8,Fall,5,0.58
+Home_4,2026-01-15,07:00,Lights,36.89,Summer,3,0.21
+Home_2,2026-01-15,08:00,Oven,31.42,Summer,2,0.72
+Home_2,2026-01-15,09:00,Air Conditioning,-3.99,Winter,1,0.47
+Home_3,2026-01-15,10:00,Oven,33.64,Summer,4,0.58
+Home_1,2026-01-15,11:00,Lights,28.68,Fall,1,1.27
+Home_2,2026-01-15,12:00,Fridge,28.56,Fall,2,1.41
+Home_5,2026-01-15,13:00,Fridge,14.69,Spring,5,0.36
+Home_2,2026-01-15,14:00,Lights,12.11,Spring,5,0.62
+Home_2,2026-01-15,15:00,Fridge,8.03,Winter,5,1.4
+Home_1,2026-01-15,16:00,Fridge,-2.18,Winter,4,0.19
+Home_4,2026-01-15,17:00,Fridge,4.81,Winter,3,0.23
+Home_2,2026-01-15,18:00,Air Conditioning,5.6,Winter,3,0.33
+Home_3,2026-01-15,19:00,Air Conditioning,15.82,Spring,1,0.93
+Home_4,2026-01-15,20:00,Heater,27.14,Fall,4,0.31
+Home_5,2026-01-15,21:00,Oven,15.37,Spring,5,1.46
+Home_1,2026-01-15,22:00,Lights,-2.51,Winter,5,0.73
+Home_5,2026-01-15,23:00,Lights,36.18,Summer,2,0.8
+Home_4,2026-01-16,00:00,Lights,35.54,Summer,2,0.45
+Home_4,2026-01-16,01:00,Heater,28.76,Fall,5,0.76
+Home_4,2026-01-16,02:00,Air Conditioning,37.63,Summer,5,2.74
+Home_5,2026-01-16,03:00,Heater,18.41,Spring,4,1.15
+Home_4,2026-01-16,04:00,Lights,36.4,Summer,3,1.16
+Home_5,2026-01-16,05:00,Oven,-1.75,Winter,2,0.91
+Home_4,2026-01-16,06:00,Fridge,10.72,Spring,3,1.37
+Home_3,2026-01-16,07:00,Air Conditioning,4.69,Winter,4,1.24
+Home_4,2026-01-16,08:00,Air Conditioning,3.42,Winter,5,1.16
+Home_5,2026-01-16,09:00,Heater,1.05,Winter,3,1.75
+Home_2,2026-01-16,10:00,Air Conditioning,21.76,Spring,5,0.11
+Home_4,2026-01-16,11:00,Lights,28.6,Fall,5,0.4
+Home_2,2026-01-16,12:00,Lights,19.87,Spring,1,1.03
+Home_3,2026-01-16,13:00,Heater,1.32,Winter,3,2.51
+Home_1,2026-01-16,14:00,Lights,29.88,Fall,3,0.66
+Home_3,2026-01-16,15:00,Oven,22.35,Fall,5,1.34
+Home_4,2026-01-16,16:00,Heater,11.69,Spring,4,1.35
+Home_2,2026-01-16,17:00,Oven,23.99,Fall,1,1.37
+Home_2,2026-01-16,18:00,Fridge,6.18,Winter,5,0.54
+Home_5,2026-01-16,19:00,Oven,9.84,Winter,2,1.07
+Home_2,2026-01-16,20:00,Fridge,34.45,Summer,2,0.48
+Home_5,2026-01-16,21:00,Fridge,7.49,Winter,1,0.37
+Home_1,2026-01-16,22:00,Oven,15.21,Spring,4,0.36
+Home_4,2026-01-16,23:00,Heater,33.28,Summer,5,0.58
+Home_5,2026-01-17,00:00,Lights,25.43,Fall,3,0.7
+Home_1,2026-01-17,01:00,Lights,-2.33,Winter,1,1.26
+Home_2,2026-01-17,02:00,Fridge,1.33,Winter,4,0.27
+Home_2,2026-01-17,03:00,Fridge,-4.66,Winter,3,1.13
+Home_1,2026-01-17,04:00,Heater,22.13,Fall,2,0.84
+Home_2,2026-01-17,05:00,Air Conditioning,14.25,Spring,2,0.5
+Home_1,2026-01-17,06:00,Oven,0.77,Winter,3,0.79
+Home_5,2026-01-17,07:00,Fridge,36.19,Summer,1,0.52
+Home_5,2026-01-17,08:00,Lights,17.78,Spring,2,0.93
+Home_1,2026-01-17,09:00,Heater,5.4,Winter,5,1.82
+Home_5,2026-01-17,10:00,Oven,16.53,Spring,3,0.33
+Home_5,2026-01-17,11:00,Heater,24.22,Fall,3,0.26
+Home_5,2026-01-17,12:00,Oven,-1.72,Winter,2,0.87
+Home_3,2026-01-17,13:00,Oven,6.81,Winter,1,1.36
+Home_4,2026-01-17,14:00,Fridge,29.7,Fall,5,0.58
+Home_2,2026-01-17,15:00,Heater,14.77,Spring,1,1.13
+Home_3,2026-01-17,16:00,Heater,18.5,Spring,4,1.02
+Home_5,2026-01-17,17:00,Lights,13.61,Spring,4,1.4
+Home_1,2026-01-17,18:00,Lights,-3.11,Winter,2,1.25
+Home_5,2026-01-17,19:00,Fridge,2.13,Winter,2,0.89
+Home_4,2026-01-17,20:00,Fridge,14.16,Spring,2,1.02
+Home_5,2026-01-17,21:00,Air Conditioning,3.99,Winter,4,1.36
+Home_1,2026-01-17,22:00,Lights,-2.85,Winter,1,0.66
+Home_4,2026-01-17,23:00,Oven,31.28,Summer,1,0.56
+Home_5,2026-01-18,00:00,Heater,37.19,Summer,2,0.12
+Home_4,2026-01-18,01:00,Fridge,29.11,Fall,5,1.26
+Home_2,2026-01-18,02:00,Heater,31.71,Summer,1,1.22
+Home_2,2026-01-18,03:00,Heater,5.41,Winter,4,1.25
+Home_5,2026-01-18,04:00,Air Conditioning,36.31,Summer,3,3.41
+Home_4,2026-01-18,05:00,Lights,3.47,Winter,3,0.75
+Home_1,2026-01-18,06:00,Fridge,35.91,Summer,3,0.27
+Home_5,2026-01-18,07:00,Heater,37.78,Summer,5,1.47
+Home_2,2026-01-18,08:00,Fridge,25.6,Fall,2,0.4
+Home_2,2026-01-18,09:00,Oven,37.19,Summer,4,0.19
+Home_5,2026-01-18,10:00,Air Conditioning,19.49,Spring,5,0.93
+Home_4,2026-01-18,11:00,Oven,6.16,Winter,4,1.13
+Home_2,2026-01-18,12:00,Fridge,13.79,Spring,4,0.15
+Home_4,2026-01-18,13:00,Fridge,20.52,Spring,2,1.02
+Home_2,2026-01-18,14:00,Lights,-1.86,Winter,3,0.85
+Home_2,2026-01-18,15:00,Heater,21.76,Spring,2,0.24
+Home_3,2026-01-18,16:00,Heater,37.19,Summer,5,0.34
+Home_2,2026-01-18,17:00,Oven,3.17,Winter,5,0.9
+Home_1,2026-01-18,18:00,Air Conditioning,29.08,Fall,5,0.51
+Home_5,2026-01-18,19:00,Heater,34.04,Summer,2,1.41
+Home_5,2026-01-18,20:00,Lights,35.58,Summer,4,1.25
+Home_4,2026-01-18,21:00,Oven,36.29,Summer,4,1.48
+Home_2,2026-01-18,22:00,Oven,17.42,Spring,1,0.46
+Home_1,2026-01-18,23:00,Lights,37.02,Summer,5,1.46
+Home_4,2026-01-19,00:00,Air Conditioning,27.56,Fall,4,0.7
+Home_3,2026-01-19,01:00,Lights,1.95,Winter,1,0.59
+Home_4,2026-01-19,02:00,Air Conditioning,15.51,Spring,4,0.17
+Home_4,2026-01-19,03:00,Lights,25.89,Fall,5,0.17
+Home_2,2026-01-19,04:00,Lights,5.64,Winter,3,1.07
+Home_3,2026-01-19,05:00,Fridge,22.55,Fall,5,0.74
+Home_4,2026-01-19,06:00,Oven,23.66,Fall,2,0.42
+Home_1,2026-01-19,07:00,Lights,2.0,Winter,4,0.96
+Home_1,2026-01-19,08:00,Lights,19.3,Spring,4,0.45
+Home_5,2026-01-19,09:00,Heater,28.18,Fall,2,0.91
+Home_3,2026-01-19,10:00,Oven,16.45,Spring,2,0.6
+Home_3,2026-01-19,11:00,Heater,-4.48,Winter,3,3.22
+Home_5,2026-01-19,12:00,Oven,-4.61,Winter,4,1.25
+Home_4,2026-01-19,13:00,Heater,10.35,Spring,4,0.77
+Home_3,2026-01-19,14:00,Lights,34.83,Summer,3,0.59
+Home_1,2026-01-19,15:00,Lights,4.83,Winter,1,0.61
+Home_1,2026-01-19,16:00,Fridge,22.28,Fall,3,1.23
+Home_2,2026-01-19,17:00,Heater,4.55,Winter,5,2.18
+Home_3,2026-01-19,18:00,Air Conditioning,8.83,Winter,4,0.39
+Home_4,2026-01-19,19:00,Fridge,31.47,Summer,2,0.22
+Home_5,2026-01-19,20:00,Heater,26.34,Fall,5,0.75
+Home_5,2026-01-19,21:00,Heater,-0.9,Winter,4,2.51
+Home_4,2026-01-19,22:00,Fridge,13.43,Spring,3,1.28
+Home_2,2026-01-19,23:00,Lights,-3.75,Winter,5,0.41
+Home_5,2026-01-20,00:00,Heater,15.68,Spring,4,0.63
+Home_3,2026-01-20,01:00,Lights,23.48,Fall,1,1.23
+Home_2,2026-01-20,02:00,Fridge,0.1,Winter,1,1.25
+Home_3,2026-01-20,03:00,Lights,7.42,Winter,2,0.64
+Home_1,2026-01-20,04:00,Oven,12.11,Spring,4,0.74
+Home_2,2026-01-20,05:00,Air Conditioning,34.54,Summer,1,2.65
+Home_5,2026-01-20,06:00,Heater,37.71,Summer,3,1.41
+Home_2,2026-01-20,07:00,Air Conditioning,-3.07,Winter,4,0.27
+Home_2,2026-01-20,08:00,Lights,27.72,Fall,3,1.41
+Home_2,2026-01-20,09:00,Heater,10.98,Spring,3,1.06
+Home_2,2026-01-20,10:00,Lights,11.88,Spring,1,0.84
+Home_3,2026-01-20,11:00,Oven,27.43,Fall,4,0.15
+Home_1,2026-01-20,12:00,Fridge,34.49,Summer,5,0.77
+Home_4,2026-01-20,13:00,Heater,35.89,Summer,1,0.67
+Home_2,2026-01-20,14:00,Oven,19.82,Spring,1,0.33
+Home_5,2026-01-20,15:00,Oven,10.36,Spring,4,1.02
+Home_2,2026-01-20,16:00,Heater,28.86,Fall,4,1.46
+Home_5,2026-01-20,17:00,Lights,5.79,Winter,3,0.89
+Home_3,2026-01-20,18:00,Oven,19.26,Spring,4,1.1
+Home_5,2026-01-20,19:00,Air Conditioning,10.42,Spring,3,0.2
+Home_4,2026-01-20,20:00,Oven,23.24,Fall,1,0.68
+Home_1,2026-01-20,21:00,Lights,5.34,Winter,2,0.26
+Home_5,2026-01-20,22:00,Lights,3.24,Winter,5,0.96
+Home_5,2026-01-20,23:00,Air Conditioning,34.48,Summer,1,2.95
+Home_1,2026-01-21,00:00,Oven,-0.62,Winter,4,1.03
+Home_4,2026-01-21,01:00,Lights,16.76,Spring,5,0.21
+Home_2,2026-01-21,02:00,Heater,4.5,Winter,2,2.1
+Home_5,2026-01-21,03:00,Fridge,-3.33,Winter,2,0.87
+Home_1,2026-01-21,04:00,Fridge,-3.45,Winter,3,0.66
+Home_3,2026-01-21,05:00,Fridge,2.53,Winter,5,1.27
+Home_1,2026-01-21,06:00,Oven,32.27,Summer,3,1.24
+Home_3,2026-01-21,07:00,Air Conditioning,7.15,Winter,1,0.96
+Home_4,2026-01-21,08:00,Lights,35.87,Summer,5,0.62
+Home_2,2026-01-21,09:00,Heater,20.01,Spring,1,0.46
+Home_1,2026-01-21,10:00,Heater,13.77,Spring,3,0.25
+Home_5,2026-01-21,11:00,Oven,19.94,Spring,5,0.6
+Home_4,2026-01-21,12:00,Fridge,17.22,Spring,3,0.68
+Home_1,2026-01-21,13:00,Oven,27.63,Fall,5,1.05
+Home_5,2026-01-21,14:00,Air Conditioning,7.15,Winter,3,1.02
+Home_1,2026-01-21,15:00,Air Conditioning,10.18,Spring,2,0.2
+Home_3,2026-01-21,16:00,Lights,33.45,Summer,3,0.65
+Home_1,2026-01-21,17:00,Lights,35.7,Summer,2,0.35
+Home_1,2026-01-21,18:00,Air Conditioning,33.38,Summer,3,2.09
+Home_1,2026-01-21,19:00,Air Conditioning,13.04,Spring,5,1.26
+Home_4,2026-01-21,20:00,Air Conditioning,28.56,Fall,5,0.16
+Home_1,2026-01-21,21:00,Oven,15.48,Spring,5,0.69
+Home_5,2026-01-21,22:00,Air Conditioning,16.39,Spring,4,0.34
+Home_3,2026-01-21,23:00,Heater,3.8,Winter,1,2.48
+Home_3,2026-01-22,00:00,Fridge,20.42,Spring,5,0.88
+Home_1,2026-01-22,01:00,Air Conditioning,3.0,Winter,2,0.42
+Home_4,2026-01-22,02:00,Fridge,9.26,Winter,5,0.8
+Home_4,2026-01-22,03:00,Oven,31.77,Summer,4,1.12
+Home_5,2026-01-22,04:00,Fridge,3.9,Winter,2,1.44
+Home_1,2026-01-22,05:00,Oven,-1.94,Winter,4,0.41
+Home_3,2026-01-22,06:00,Heater,-2.03,Winter,2,3.78
+Home_4,2026-01-22,07:00,Oven,35.45,Summer,3,1.41
+Home_1,2026-01-22,08:00,Oven,16.8,Spring,1,1.38
+Home_4,2026-01-22,09:00,Lights,12.6,Spring,1,0.99
+Home_4,2026-01-22,10:00,Air Conditioning,29.87,Fall,4,0.98
+Home_3,2026-01-22,11:00,Air Conditioning,30.94,Summer,1,3.06
+Home_2,2026-01-22,12:00,Heater,9.28,Winter,4,3.25
+Home_5,2026-01-22,13:00,Heater,24.83,Fall,4,0.84
+Home_5,2026-01-22,14:00,Air Conditioning,28.16,Fall,4,1.05
+Home_3,2026-01-22,15:00,Lights,23.15,Fall,1,0.7
+Home_4,2026-01-22,16:00,Air Conditioning,1.52,Winter,4,1.12
+Home_1,2026-01-22,17:00,Lights,32.66,Summer,1,1.25
+Home_4,2026-01-22,18:00,Heater,18.18,Spring,4,0.31
+Home_3,2026-01-22,19:00,Fridge,7.15,Winter,5,1.27
+Home_5,2026-01-22,20:00,Heater,13.28,Spring,4,0.86
+Home_4,2026-01-22,21:00,Heater,-3.38,Winter,2,2.76
+Home_5,2026-01-22,22:00,Oven,0.5,Winter,4,0.7
+Home_1,2026-01-22,23:00,Oven,27.92,Fall,3,0.63
+Home_5,2026-01-23,00:00,Oven,-5.0,Winter,4,1.38
+Home_5,2026-01-23,01:00,Oven,12.91,Spring,2,0.45
+Home_2,2026-01-23,02:00,Lights,17.47,Spring,2,1.28
+Home_2,2026-01-23,03:00,Air Conditioning,-2.65,Winter,1,0.78
+Home_2,2026-01-23,04:00,Fridge,36.84,Summer,5,0.82
+Home_5,2026-01-23,05:00,Heater,4.72,Winter,4,2.12
+Home_3,2026-01-23,06:00,Lights,8.08,Winter,1,0.9
+Home_5,2026-01-23,07:00,Fridge,8.07,Winter,5,0.56
+Home_3,2026-01-23,08:00,Lights,4.91,Winter,4,0.15
+Home_3,2026-01-23,09:00,Lights,-4.94,Winter,3,0.48
+Home_2,2026-01-23,10:00,Heater,26.36,Fall,4,0.11
+Home_4,2026-01-23,11:00,Air Conditioning,36.57,Summer,2,3.33
+Home_1,2026-01-23,12:00,Oven,4.64,Winter,2,1.45
+Home_2,2026-01-23,13:00,Air Conditioning,23.51,Fall,3,0.65
+Home_2,2026-01-23,14:00,Heater,26.9,Fall,1,1.12
+Home_4,2026-01-23,15:00,Heater,31.48,Summer,5,0.58
+Home_1,2026-01-23,16:00,Heater,13.17,Spring,4,1.04
+Home_5,2026-01-23,17:00,Fridge,8.03,Winter,2,1.23
+Home_5,2026-01-23,18:00,Air Conditioning,8.99,Winter,1,1.43
+Home_2,2026-01-23,19:00,Air Conditioning,25.64,Fall,3,0.66
+Home_1,2026-01-23,20:00,Lights,30.12,Summer,2,1.2
+Home_2,2026-01-23,21:00,Lights,2.81,Winter,3,0.47
+Home_3,2026-01-23,22:00,Lights,10.95,Spring,4,1.49
+Home_2,2026-01-23,23:00,Heater,33.78,Summer,5,0.14
+Home_2,2026-01-24,00:00,Air Conditioning,29.69,Fall,2,0.94
+Home_5,2026-01-24,01:00,Heater,37.35,Summer,2,1.02
+Home_5,2026-01-24,02:00,Fridge,27.43,Fall,4,1.06
+Home_5,2026-01-24,03:00,Lights,11.91,Spring,1,0.27
+Home_3,2026-01-24,04:00,Heater,20.4,Spring,5,1.41
+Home_5,2026-01-24,05:00,Heater,23.42,Fall,2,0.35
+Home_1,2026-01-24,06:00,Fridge,-1.63,Winter,5,0.97
+Home_4,2026-01-24,07:00,Oven,18.41,Spring,2,0.41
+Home_1,2026-01-24,08:00,Air Conditioning,25.5,Fall,5,0.53
+Home_1,2026-01-24,09:00,Oven,2.19,Winter,3,0.87
+Home_5,2026-01-24,10:00,Lights,28.57,Fall,2,0.68
+Home_4,2026-01-24,11:00,Heater,20.1,Spring,5,0.32
+Home_4,2026-01-24,12:00,Fridge,35.95,Summer,1,0.34
+Home_4,2026-01-24,13:00,Fridge,-3.18,Winter,3,0.69
+Home_3,2026-01-24,14:00,Air Conditioning,6.41,Winter,3,1.16
+Home_5,2026-01-24,15:00,Oven,20.87,Spring,1,1.36
+Home_4,2026-01-24,16:00,Air Conditioning,7.75,Winter,5,0.22
+Home_3,2026-01-24,17:00,Heater,25.72,Fall,4,0.65
+Home_2,2026-01-24,18:00,Air Conditioning,27.64,Fall,1,0.24
+Home_2,2026-01-24,19:00,Fridge,-0.59,Winter,5,0.12
+Home_3,2026-01-24,20:00,Fridge,17.1,Spring,1,1.03
+Home_3,2026-01-24,21:00,Lights,16.88,Spring,1,0.94
+Home_5,2026-01-24,22:00,Lights,10.88,Spring,2,0.33
+Home_5,2026-01-24,23:00,Heater,35.12,Summer,5,0.43
+Home_2,2026-01-25,00:00,Oven,30.58,Summer,4,0.13
+Home_4,2026-01-25,01:00,Air Conditioning,24.98,Fall,2,1.27
+Home_2,2026-01-25,02:00,Heater,25.72,Fall,1,1.46
+Home_4,2026-01-25,03:00,Lights,14.85,Spring,1,0.29
+Home_4,2026-01-25,04:00,Air Conditioning,34.6,Summer,1,2.07
+Home_5,2026-01-25,05:00,Lights,24.87,Fall,5,1.32
+Home_1,2026-01-25,06:00,Air Conditioning,26.35,Fall,5,1.4
+Home_1,2026-01-25,07:00,Oven,32.05,Summer,2,0.69
+Home_3,2026-01-25,08:00,Heater,6.79,Winter,4,1.44
+Home_5,2026-01-25,09:00,Air Conditioning,29.7,Fall,2,0.16
+Home_4,2026-01-25,10:00,Fridge,3.4,Winter,3,0.9
+Home_1,2026-01-25,11:00,Fridge,9.85,Winter,1,0.65
+Home_4,2026-01-25,12:00,Air Conditioning,9.43,Winter,1,0.14
+Home_1,2026-01-25,13:00,Air Conditioning,37.08,Summer,1,3.61
+Home_1,2026-01-25,14:00,Air Conditioning,31.83,Summer,2,2.63
+Home_1,2026-01-25,15:00,Fridge,25.15,Fall,2,1.2
+Home_5,2026-01-25,16:00,Fridge,26.26,Fall,1,0.53
+Home_2,2026-01-25,17:00,Air Conditioning,19.17,Spring,2,0.16
+Home_4,2026-01-25,18:00,Lights,35.72,Summer,5,0.92
+Home_5,2026-01-25,19:00,Lights,16.34,Spring,5,0.66
+Home_5,2026-01-25,20:00,Oven,11.36,Spring,2,1.46
+Home_5,2026-01-25,21:00,Heater,2.01,Winter,1,2.68
+Home_5,2026-01-25,22:00,Lights,28.81,Fall,2,0.49
+Home_5,2026-01-25,23:00,Fridge,26.58,Fall,2,1.09
+Home_3,2026-01-26,00:00,Lights,11.53,Spring,2,0.48
+Home_4,2026-01-26,01:00,Oven,-3.92,Winter,3,1.37
+Home_5,2026-01-26,02:00,Oven,31.08,Summer,5,0.62
+Home_4,2026-01-26,03:00,Heater,-4.51,Winter,4,2.58
+Home_3,2026-01-26,04:00,Lights,25.26,Fall,4,0.17
+Home_3,2026-01-26,05:00,Fridge,36.72,Summer,3,0.7
+Home_4,2026-01-26,06:00,Fridge,13.82,Spring,2,1.27
+Home_1,2026-01-26,07:00,Air Conditioning,5.1,Winter,3,1.23
+Home_2,2026-01-26,08:00,Fridge,25.31,Fall,3,0.41
+Home_1,2026-01-26,09:00,Heater,30.14,Summer,1,0.42
+Home_1,2026-01-26,10:00,Heater,18.5,Spring,5,1.24
+Home_1,2026-01-26,11:00,Fridge,36.58,Summer,4,1.4
+Home_5,2026-01-26,12:00,Fridge,-2.78,Winter,2,0.23
+Home_3,2026-01-26,13:00,Air Conditioning,16.71,Spring,4,0.73
+Home_1,2026-01-26,14:00,Fridge,25.89,Fall,4,0.57
+Home_3,2026-01-26,15:00,Air Conditioning,32.09,Summer,5,4.2
+Home_4,2026-01-26,16:00,Air Conditioning,2.71,Winter,4,0.22
+Home_2,2026-01-26,17:00,Fridge,29.4,Fall,4,0.4
+Home_4,2026-01-26,18:00,Oven,18.77,Spring,3,1.15
+Home_4,2026-01-26,19:00,Oven,12.05,Spring,5,0.17
+Home_5,2026-01-26,20:00,Air Conditioning,0.66,Winter,1,0.79
+Home_2,2026-01-26,21:00,Fridge,32.21,Summer,2,0.72
+Home_4,2026-01-26,22:00,Oven,1.76,Winter,4,0.57
+Home_4,2026-01-26,23:00,Fridge,8.32,Winter,2,0.65
+Home_2,2026-01-27,00:00,Fridge,7.47,Winter,1,0.84
+Home_2,2026-01-27,01:00,Fridge,32.47,Summer,2,0.33
+Home_4,2026-01-27,02:00,Lights,23.93,Fall,1,0.9
+Home_2,2026-01-27,03:00,Fridge,29.26,Fall,3,1.23
+Home_4,2026-01-27,04:00,Lights,5.77,Winter,4,1.16
+Home_4,2026-01-27,05:00,Air Conditioning,21.87,Spring,1,0.32
+Home_5,2026-01-27,06:00,Oven,19.59,Spring,2,0.31
+Home_1,2026-01-27,07:00,Oven,30.81,Summer,4,0.48
+Home_4,2026-01-27,08:00,Oven,33.96,Summer,3,0.61
+Home_3,2026-01-27,09:00,Oven,-4.48,Winter,4,0.67
+Home_1,2026-01-27,10:00,Oven,23.98,Fall,1,1.05
+Home_1,2026-01-27,11:00,Oven,-2.77,Winter,3,0.18
+Home_1,2026-01-27,12:00,Oven,18.6,Spring,2,0.15
+Home_5,2026-01-27,13:00,Air Conditioning,7.37,Winter,3,0.65
+Home_4,2026-01-27,14:00,Fridge,8.19,Winter,3,1.08
+Home_5,2026-01-27,15:00,Heater,10.18,Spring,5,0.37
+Home_4,2026-01-27,16:00,Lights,21.72,Spring,3,1.0
+Home_5,2026-01-27,17:00,Heater,9.36,Winter,3,1.57
+Home_5,2026-01-27,18:00,Heater,26.51,Fall,4,1.34
+Home_3,2026-01-27,19:00,Fridge,12.39,Spring,2,1.35
+Home_5,2026-01-27,20:00,Fridge,-2.06,Winter,4,0.52
+Home_2,2026-01-27,21:00,Fridge,28.7,Fall,4,0.42
+Home_3,2026-01-27,22:00,Oven,7.29,Winter,1,0.68
+Home_5,2026-01-27,23:00,Air Conditioning,13.61,Spring,4,0.44
+Home_1,2026-01-28,00:00,Oven,24.47,Fall,5,1.04
+Home_2,2026-01-28,01:00,Air Conditioning,9.3,Winter,5,1.26
+Home_2,2026-01-28,02:00,Air Conditioning,-2.57,Winter,1,1.04
+Home_2,2026-01-28,03:00,Heater,11.08,Spring,2,1.25
+Home_3,2026-01-28,04:00,Heater,35.61,Summer,2,0.66
+Home_5,2026-01-28,05:00,Air Conditioning,22.59,Fall,4,0.32
+Home_5,2026-01-28,06:00,Air Conditioning,23.87,Fall,4,1.13
+Home_1,2026-01-28,07:00,Oven,22.19,Fall,4,0.6
+Home_1,2026-01-28,08:00,Oven,3.56,Winter,2,1.04
+Home_2,2026-01-28,09:00,Heater,12.99,Spring,3,0.48
+Home_1,2026-01-28,10:00,Fridge,27.29,Fall,5,0.21
+Home_3,2026-01-28,11:00,Air Conditioning,-0.64,Winter,3,1.49
+Home_5,2026-01-28,12:00,Oven,6.95,Winter,3,0.32
+Home_2,2026-01-28,13:00,Heater,6.88,Winter,2,2.9
+Home_1,2026-01-28,14:00,Oven,13.58,Spring,3,1.47
+Home_3,2026-01-28,15:00,Air Conditioning,37.16,Summer,1,3.24
+Home_3,2026-01-28,16:00,Air Conditioning,-2.1,Winter,4,1.02
+Home_1,2026-01-28,17:00,Lights,17.3,Spring,1,0.91
+Home_5,2026-01-28,18:00,Fridge,2.71,Winter,5,1.31
+Home_1,2026-01-28,19:00,Lights,36.74,Summer,4,0.51
+Home_2,2026-01-28,20:00,Heater,-0.13,Winter,3,2.93
+Home_1,2026-01-28,21:00,Oven,12.35,Spring,5,0.97
+Home_3,2026-01-28,22:00,Heater,26.73,Fall,4,0.68
+Home_1,2026-01-28,23:00,Air Conditioning,25.3,Fall,3,0.7
+Home_5,2026-01-29,00:00,Lights,13.18,Spring,1,0.56
+Home_4,2026-01-29,01:00,Lights,9.9,Winter,4,0.89
+Home_1,2026-01-29,02:00,Lights,12.1,Spring,3,1.29
+Home_5,2026-01-29,03:00,Heater,6.36,Winter,1,2.87
+Home_5,2026-01-29,04:00,Air Conditioning,3.83,Winter,5,1.41
+Home_3,2026-01-29,05:00,Oven,15.77,Spring,5,1.06
+Home_5,2026-01-29,06:00,Oven,6.55,Winter,5,1.25
+Home_5,2026-01-29,07:00,Heater,7.36,Winter,5,2.24
+Home_5,2026-01-29,08:00,Lights,23.24,Fall,2,1.19
+Home_5,2026-01-29,09:00,Fridge,36.65,Summer,4,0.12
+Home_2,2026-01-29,10:00,Heater,20.96,Spring,4,1.25
+Home_2,2026-01-29,11:00,Heater,-1.69,Winter,2,2.47
+Home_3,2026-01-29,12:00,Air Conditioning,-1.75,Winter,3,1.35
+Home_1,2026-01-29,13:00,Oven,35.91,Summer,3,1.49
+Home_5,2026-01-29,14:00,Heater,7.78,Winter,5,2.76
+Home_1,2026-01-29,15:00,Heater,-1.04,Winter,1,1.73
+Home_1,2026-01-29,16:00,Lights,20.76,Spring,3,1.17
+Home_3,2026-01-29,17:00,Lights,21.82,Spring,1,0.45
+Home_5,2026-01-29,18:00,Fridge,22.89,Fall,4,1.31
+Home_5,2026-01-29,19:00,Air Conditioning,6.5,Winter,1,0.24
+Home_4,2026-01-29,20:00,Fridge,-4.35,Winter,4,0.28
+Home_1,2026-01-29,21:00,Lights,36.5,Summer,2,1.47
+Home_1,2026-01-29,22:00,Oven,5.79,Winter,2,1.04
+Home_2,2026-01-29,23:00,Lights,24.07,Fall,5,1.29
+Home_4,2026-01-30,00:00,Air Conditioning,25.39,Fall,3,0.55
+Home_2,2026-01-30,01:00,Lights,21.23,Spring,5,1.05
+Home_2,2026-01-30,02:00,Air Conditioning,8.46,Winter,4,0.93
+Home_2,2026-01-30,03:00,Air Conditioning,6.66,Winter,5,0.94
+Home_3,2026-01-30,04:00,Air Conditioning,20.7,Spring,1,1.06
+Home_3,2026-01-30,05:00,Air Conditioning,32.24,Summer,4,3.0
+Home_2,2026-01-30,06:00,Air Conditioning,35.71,Summer,2,2.82
+Home_4,2026-01-30,07:00,Oven,-0.45,Winter,3,0.49
+Home_1,2026-01-30,08:00,Fridge,1.66,Winter,4,1.18
+Home_4,2026-01-30,09:00,Heater,35.62,Summer,4,0.42
+Home_5,2026-01-30,10:00,Fridge,26.67,Fall,1,1.07
+Home_3,2026-01-30,11:00,Air Conditioning,32.97,Summer,3,3.39
+Home_1,2026-01-30,12:00,Oven,3.71,Winter,2,0.98
+Home_1,2026-01-30,13:00,Lights,20.27,Spring,4,1.15
+Home_5,2026-01-30,14:00,Oven,25.15,Fall,4,0.41
+Home_5,2026-01-30,15:00,Air Conditioning,24.24,Fall,1,0.18
+Home_2,2026-01-30,16:00,Oven,12.55,Spring,5,0.28
+Home_3,2026-01-30,17:00,Oven,-4.34,Winter,2,0.95
+Home_3,2026-01-30,18:00,Air Conditioning,20.07,Spring,3,1.29
+Home_4,2026-01-30,19:00,Oven,5.88,Winter,4,0.16
+Home_2,2026-01-30,20:00,Heater,14.36,Spring,4,1.13
+Home_2,2026-01-30,21:00,Heater,36.18,Summer,2,0.58
+Home_2,2026-01-30,22:00,Oven,12.16,Spring,5,0.77
+Home_2,2026-01-30,23:00,Lights,31.11,Summer,4,1.4
+Home_3,2026-01-31,00:00,Air Conditioning,3.11,Winter,2,0.56
+Home_3,2026-01-31,01:00,Heater,23.92,Fall,1,0.75
+Home_2,2026-01-31,02:00,Lights,37.01,Summer,5,0.12
+Home_4,2026-01-31,03:00,Oven,-0.62,Winter,3,0.21
+Home_1,2026-01-31,04:00,Lights,-4.64,Winter,4,0.46
+Home_1,2026-01-31,05:00,Fridge,13.64,Spring,2,0.14
+Home_4,2026-01-31,06:00,Heater,-1.02,Winter,1,2.26
+Home_2,2026-01-31,07:00,Oven,27.18,Fall,3,0.7
+Home_3,2026-01-31,08:00,Air Conditioning,34.33,Summer,2,3.57
+Home_1,2026-01-31,09:00,Oven,13.66,Spring,2,0.34
+Home_5,2026-01-31,10:00,Air Conditioning,6.12,Winter,3,0.51
+Home_5,2026-01-31,11:00,Oven,13.68,Spring,1,1.03
+Home_4,2026-01-31,12:00,Lights,26.11,Fall,1,1.45
+Home_2,2026-01-31,13:00,Lights,-4.61,Winter,5,0.17
+Home_1,2026-01-31,14:00,Lights,20.35,Spring,4,1.35
+Home_2,2026-01-31,15:00,Fridge,21.37,Spring,3,0.91
+Home_1,2026-01-31,16:00,Air Conditioning,22.42,Fall,3,0.89
+Home_4,2026-01-31,17:00,Lights,5.41,Winter,3,0.8
+Home_4,2026-01-31,18:00,Fridge,25.7,Fall,1,0.2
+Home_5,2026-01-31,19:00,Air Conditioning,-1.07,Winter,4,0.23
+Home_2,2026-01-31,20:00,Oven,3.57,Winter,5,0.94
+Home_5,2026-01-31,21:00,Fridge,32.73,Summer,2,0.58
+Home_2,2026-01-31,22:00,Heater,26.77,Fall,2,1.38
+Home_5,2026-01-31,23:00,Fridge,-4.41,Winter,3,0.67
+Home_3,2026-02-01,00:00,Fridge,5.68,Winter,4,0.3
+Home_3,2026-02-01,01:00,Air Conditioning,4.22,Winter,1,1.1
+Home_3,2026-02-01,02:00,Oven,6.64,Winter,4,0.51
+Home_3,2026-02-01,03:00,Heater,5.65,Winter,4,2.34
+Home_1,2026-02-01,04:00,Lights,-2.31,Winter,1,1.08
+Home_3,2026-02-01,05:00,Lights,14.73,Spring,3,1.36
+Home_4,2026-02-01,06:00,Fridge,26.51,Fall,4,1.21
+Home_4,2026-02-01,07:00,Air Conditioning,21.09,Spring,2,1.05
+Home_1,2026-02-01,08:00,Air Conditioning,23.93,Fall,1,1.05
+Home_3,2026-02-01,09:00,Lights,-1.51,Winter,5,1.42
+Home_3,2026-02-01,10:00,Heater,35.91,Summer,3,0.51
+Home_3,2026-02-01,11:00,Oven,31.06,Summer,1,0.1
+Home_5,2026-02-01,12:00,Heater,29.62,Fall,5,0.48
+Home_2,2026-02-01,13:00,Oven,30.39,Summer,5,0.41
+Home_5,2026-02-01,14:00,Lights,35.11,Summer,4,1.03
+Home_2,2026-02-01,15:00,Oven,18.4,Spring,4,0.99
+Home_3,2026-02-01,16:00,Air Conditioning,3.61,Winter,4,0.93
+Home_3,2026-02-01,17:00,Fridge,21.52,Spring,1,0.12
+Home_5,2026-02-01,18:00,Fridge,26.94,Fall,1,1.12
+Home_5,2026-02-01,19:00,Lights,26.73,Fall,3,0.55
+Home_2,2026-02-01,20:00,Air Conditioning,17.42,Spring,4,1.03
+Home_4,2026-02-01,21:00,Heater,-2.06,Winter,5,2.98
+Home_2,2026-02-01,22:00,Air Conditioning,10.96,Spring,2,0.58
+Home_5,2026-02-01,23:00,Fridge,34.59,Summer,3,0.29
+Home_5,2026-02-02,00:00,Fridge,20.13,Spring,1,0.23
+Home_1,2026-02-02,01:00,Air Conditioning,18.15,Spring,3,1.26
+Home_5,2026-02-02,02:00,Air Conditioning,6.56,Winter,3,1.39
+Home_1,2026-02-02,03:00,Fridge,10.84,Spring,3,1.01
+Home_4,2026-02-02,04:00,Heater,33.5,Summer,3,0.24
+Home_2,2026-02-02,05:00,Lights,23.66,Fall,2,0.66
+Home_2,2026-02-02,06:00,Lights,28.86,Fall,4,1.12
+Home_1,2026-02-02,07:00,Air Conditioning,14.54,Spring,5,1.19
+Home_2,2026-02-02,08:00,Lights,22.1,Fall,3,0.27
+Home_5,2026-02-02,09:00,Fridge,5.68,Winter,3,0.1
+Home_3,2026-02-02,10:00,Fridge,25.33,Fall,3,1.1
+Home_1,2026-02-02,11:00,Air Conditioning,13.39,Spring,4,0.6
+Home_2,2026-02-02,12:00,Air Conditioning,14.03,Spring,1,0.46
+Home_1,2026-02-02,13:00,Air Conditioning,22.92,Fall,1,0.12
+Home_1,2026-02-02,14:00,Heater,35.26,Summer,2,0.86
+Home_3,2026-02-02,15:00,Lights,-2.25,Winter,1,1.29
+Home_5,2026-02-02,16:00,Air Conditioning,30.46,Summer,3,3.57
+Home_1,2026-02-02,17:00,Oven,7.57,Winter,3,0.89
+Home_2,2026-02-02,18:00,Oven,14.09,Spring,3,0.82
+Home_4,2026-02-02,19:00,Fridge,-4.06,Winter,2,0.22
+Home_1,2026-02-02,20:00,Lights,7.94,Winter,3,0.87
+Home_1,2026-02-02,21:00,Air Conditioning,16.61,Spring,1,0.63
+Home_3,2026-02-02,22:00,Oven,-2.58,Winter,4,0.95
+Home_5,2026-02-02,23:00,Lights,16.12,Spring,4,0.64
+Home_4,2026-02-03,00:00,Fridge,34.87,Summer,5,0.44
+Home_2,2026-02-03,01:00,Heater,-0.47,Winter,1,2.1
+Home_4,2026-02-03,02:00,Lights,27.87,Fall,3,0.54
+Home_2,2026-02-03,03:00,Lights,12.62,Spring,4,0.24
+Home_5,2026-02-03,04:00,Heater,23.17,Fall,1,0.35
+Home_2,2026-02-03,05:00,Lights,6.19,Winter,4,1.48
+Home_3,2026-02-03,06:00,Fridge,1.86,Winter,3,0.72
+Home_3,2026-02-03,07:00,Fridge,1.9,Winter,4,0.84
+Home_3,2026-02-03,08:00,Heater,-1.97,Winter,5,3.57
+Home_3,2026-02-03,09:00,Air Conditioning,2.98,Winter,5,1.49
+Home_4,2026-02-03,10:00,Oven,23.56,Fall,4,0.92
+Home_5,2026-02-03,11:00,Air Conditioning,32.91,Summer,1,3.94
+Home_2,2026-02-03,12:00,Lights,30.01,Summer,1,0.56
+Home_2,2026-02-03,13:00,Oven,24.46,Fall,1,0.53
+Home_3,2026-02-03,14:00,Heater,-0.25,Winter,4,2.96
+Home_3,2026-02-03,15:00,Heater,7.44,Winter,1,2.13
+Home_1,2026-02-03,16:00,Oven,8.32,Winter,3,1.06
+Home_5,2026-02-03,17:00,Fridge,5.75,Winter,5,0.54
+Home_4,2026-02-03,18:00,Oven,17.15,Spring,3,0.29
+Home_2,2026-02-03,19:00,Lights,18.03,Spring,1,0.99
+Home_1,2026-02-03,20:00,Fridge,10.35,Spring,3,0.28
+Home_1,2026-02-03,21:00,Heater,10.21,Spring,1,0.91
+Home_2,2026-02-03,22:00,Oven,30.63,Summer,4,1.07
+Home_4,2026-02-03,23:00,Air Conditioning,28.94,Fall,3,1.08
+Home_1,2026-02-04,00:00,Air Conditioning,8.24,Winter,4,1.15
+Home_1,2026-02-04,01:00,Lights,34.29,Summer,4,1.32
+Home_5,2026-02-04,02:00,Air Conditioning,35.97,Summer,2,3.34
+Home_4,2026-02-04,03:00,Oven,9.05,Winter,1,1.12
+Home_1,2026-02-04,04:00,Oven,10.24,Spring,5,0.97
+Home_4,2026-02-04,05:00,Air Conditioning,16.74,Spring,1,0.36
+Home_2,2026-02-04,06:00,Oven,35.47,Summer,5,0.14
+Home_3,2026-02-04,07:00,Lights,32.68,Summer,1,0.5
+Home_1,2026-02-04,08:00,Fridge,-0.59,Winter,4,0.72
+Home_5,2026-02-04,09:00,Lights,11.89,Spring,3,0.96
+Home_2,2026-02-04,10:00,Lights,18.79,Spring,3,1.29
+Home_4,2026-02-04,11:00,Oven,16.63,Spring,2,0.37
+Home_2,2026-02-04,12:00,Fridge,3.34,Winter,5,0.28
+Home_1,2026-02-04,13:00,Oven,31.93,Summer,5,1.45
+Home_4,2026-02-04,14:00,Heater,24.11,Fall,5,0.25
+Home_3,2026-02-04,15:00,Oven,31.03,Summer,4,0.77
+Home_2,2026-02-04,16:00,Oven,31.93,Summer,5,0.92
+Home_1,2026-02-04,17:00,Oven,27.18,Fall,3,0.86
+Home_5,2026-02-04,18:00,Fridge,13.89,Spring,4,0.22
+Home_4,2026-02-04,19:00,Oven,21.25,Spring,1,0.18
+Home_2,2026-02-04,20:00,Fridge,1.9,Winter,5,0.25
+Home_2,2026-02-04,21:00,Air Conditioning,23.97,Fall,5,0.92
+Home_3,2026-02-04,22:00,Heater,2.71,Winter,1,2.07
+Home_3,2026-02-04,23:00,Fridge,24.84,Fall,5,0.43
+Home_5,2026-02-05,00:00,Air Conditioning,4.87,Winter,1,0.99
+Home_5,2026-02-05,01:00,Fridge,0.05,Winter,4,1.25
+Home_1,2026-02-05,02:00,Fridge,2.11,Winter,3,0.16
+Home_1,2026-02-05,03:00,Heater,-4.91,Winter,1,2.42
+Home_5,2026-02-05,04:00,Lights,25.91,Fall,2,1.07
+Home_5,2026-02-05,05:00,Lights,26.49,Fall,1,0.45
+Home_4,2026-02-05,06:00,Fridge,17.14,Spring,5,0.53
+Home_3,2026-02-05,07:00,Oven,1.94,Winter,4,0.96
+Home_1,2026-02-05,08:00,Air Conditioning,-1.41,Winter,4,1.36
+Home_3,2026-02-05,09:00,Oven,-4.18,Winter,1,1.23
+Home_3,2026-02-05,10:00,Oven,2.13,Winter,3,0.92
+Home_5,2026-02-05,11:00,Fridge,33.31,Summer,2,1.12
+Home_4,2026-02-05,12:00,Fridge,5.39,Winter,4,0.61
+Home_2,2026-02-05,13:00,Fridge,10.23,Spring,5,1.0
+Home_4,2026-02-05,14:00,Fridge,-0.47,Winter,5,0.75
+Home_4,2026-02-05,15:00,Lights,4.56,Winter,3,0.37
+Home_3,2026-02-05,16:00,Fridge,17.33,Spring,4,1.08
+Home_4,2026-02-05,17:00,Lights,21.13,Spring,1,0.88
+Home_1,2026-02-05,18:00,Lights,5.55,Winter,5,0.6
+Home_3,2026-02-05,19:00,Fridge,-2.52,Winter,3,1.38
+Home_1,2026-02-05,20:00,Heater,11.81,Spring,4,0.13
+Home_2,2026-02-05,21:00,Air Conditioning,5.07,Winter,4,0.54
+Home_3,2026-02-05,22:00,Oven,4.44,Winter,4,0.18
+Home_2,2026-02-05,23:00,Lights,36.27,Summer,4,1.17
+Home_3,2026-02-06,00:00,Air Conditioning,21.5,Spring,4,1.08
+Home_5,2026-02-06,01:00,Heater,18.95,Spring,5,0.56
+Home_4,2026-02-06,02:00,Oven,12.88,Spring,3,1.05
+Home_5,2026-02-06,03:00,Oven,13.44,Spring,4,0.65
+Home_2,2026-02-06,04:00,Lights,18.26,Spring,2,1.16
+Home_4,2026-02-06,05:00,Fridge,24.95,Fall,2,0.74
+Home_3,2026-02-06,06:00,Heater,25.19,Fall,3,0.68
+Home_4,2026-02-06,07:00,Lights,2.38,Winter,1,1.41
+Home_1,2026-02-06,08:00,Heater,16.5,Spring,1,0.45
+Home_4,2026-02-06,09:00,Fridge,12.71,Spring,1,0.27
+Home_1,2026-02-06,10:00,Fridge,32.43,Summer,2,0.92
+Home_4,2026-02-06,11:00,Lights,22.15,Fall,1,1.46
+Home_1,2026-02-06,12:00,Fridge,17.9,Spring,5,0.63
+Home_2,2026-02-06,13:00,Air Conditioning,-0.04,Winter,4,0.19
+Home_5,2026-02-06,14:00,Oven,21.04,Spring,2,0.58
+Home_3,2026-02-06,15:00,Lights,0.04,Winter,3,0.81
+Home_4,2026-02-06,16:00,Heater,9.5,Winter,3,2.15
+Home_5,2026-02-06,17:00,Air Conditioning,1.14,Winter,4,1.02
+Home_3,2026-02-06,18:00,Lights,24.76,Fall,2,1.5
+Home_3,2026-02-06,19:00,Fridge,3.87,Winter,1,0.73
+Home_1,2026-02-06,20:00,Fridge,11.85,Spring,1,0.6
+Home_2,2026-02-06,21:00,Fridge,33.51,Summer,5,0.66
+Home_2,2026-02-06,22:00,Fridge,3.79,Winter,5,0.26
+Home_5,2026-02-06,23:00,Heater,16.84,Spring,1,1.34
+Home_2,2026-02-07,00:00,Air Conditioning,13.03,Spring,3,0.68
+Home_4,2026-02-07,01:00,Oven,-4.22,Winter,3,0.64
+Home_2,2026-02-07,02:00,Heater,29.09,Fall,5,1.02
+Home_5,2026-02-07,03:00,Heater,-2.03,Winter,4,2.32
+Home_2,2026-02-07,04:00,Oven,15.39,Spring,1,1.01
+Home_4,2026-02-07,05:00,Oven,19.11,Spring,5,0.19
+Home_1,2026-02-07,06:00,Fridge,22.02,Fall,5,1.24
+Home_5,2026-02-07,07:00,Heater,24.61,Fall,1,1.42
+Home_1,2026-02-07,08:00,Lights,5.89,Winter,1,1.01
+Home_1,2026-02-07,09:00,Oven,-4.57,Winter,3,1.44
+Home_1,2026-02-07,10:00,Oven,26.11,Fall,4,0.31
+Home_3,2026-02-07,11:00,Air Conditioning,18.03,Spring,4,0.77
+Home_3,2026-02-07,12:00,Lights,30.95,Summer,1,0.94
+Home_1,2026-02-07,13:00,Lights,30.32,Summer,2,0.91
+Home_5,2026-02-07,14:00,Oven,31.26,Summer,5,0.66
+Home_4,2026-02-07,15:00,Fridge,15.86,Spring,5,0.57
+Home_4,2026-02-07,16:00,Air Conditioning,9.35,Winter,1,0.28
+Home_2,2026-02-07,17:00,Lights,29.04,Fall,2,0.65
+Home_5,2026-02-07,18:00,Oven,14.41,Spring,3,0.33
+Home_3,2026-02-07,19:00,Lights,2.89,Winter,1,1.13
+Home_1,2026-02-07,20:00,Air Conditioning,31.76,Summer,1,2.67
+Home_2,2026-02-07,21:00,Air Conditioning,32.95,Summer,5,3.18
+Home_4,2026-02-07,22:00,Heater,15.05,Spring,1,0.87
+Home_3,2026-02-07,23:00,Oven,-1.74,Winter,1,0.93
+Home_3,2026-02-08,00:00,Air Conditioning,11.68,Spring,1,1.32
+Home_1,2026-02-08,01:00,Heater,29.55,Fall,5,0.91
+Home_4,2026-02-08,02:00,Heater,33.78,Summer,3,0.58
+Home_5,2026-02-08,03:00,Lights,3.75,Winter,3,1.22
+Home_3,2026-02-08,04:00,Lights,-2.12,Winter,1,0.86
+Home_1,2026-02-08,05:00,Heater,32.73,Summer,5,0.21
+Home_5,2026-02-08,06:00,Lights,11.74,Spring,3,0.89
+Home_4,2026-02-08,07:00,Air Conditioning,18.3,Spring,3,1.37
+Home_3,2026-02-08,08:00,Fridge,36.63,Summer,3,0.65
+Home_5,2026-02-08,09:00,Air Conditioning,-2.14,Winter,5,0.51
+Home_5,2026-02-08,10:00,Heater,22.88,Fall,5,0.3
+Home_5,2026-02-08,11:00,Heater,-1.81,Winter,1,1.51
+Home_3,2026-02-08,12:00,Air Conditioning,11.15,Spring,4,0.71
+Home_3,2026-02-08,13:00,Lights,29.56,Fall,3,0.93
+Home_2,2026-02-08,14:00,Lights,13.64,Spring,4,0.21
+Home_4,2026-02-08,15:00,Heater,37.88,Summer,5,1.42
+Home_1,2026-02-08,16:00,Oven,19.04,Spring,5,1.16
+Home_5,2026-02-08,17:00,Lights,8.81,Winter,5,0.92
+Home_2,2026-02-08,18:00,Air Conditioning,4.46,Winter,4,1.26
+Home_1,2026-02-08,19:00,Lights,10.07,Spring,5,0.21
+Home_2,2026-02-08,20:00,Air Conditioning,11.02,Spring,1,0.77
+Home_3,2026-02-08,21:00,Heater,-2.05,Winter,5,3.0
+Home_5,2026-02-08,22:00,Lights,10.89,Spring,2,1.26
+Home_1,2026-02-08,23:00,Air Conditioning,14.96,Spring,4,1.2
+Home_1,2026-02-09,00:00,Heater,26.08,Fall,2,0.49
+Home_1,2026-02-09,01:00,Oven,23.24,Fall,5,1.42
+Home_1,2026-02-09,02:00,Air Conditioning,25.48,Fall,1,0.27
+Home_1,2026-02-09,03:00,Oven,-4.64,Winter,3,1.33
+Home_2,2026-02-09,04:00,Oven,4.36,Winter,5,1.46
+Home_5,2026-02-09,05:00,Fridge,23.45,Fall,1,0.35
+Home_3,2026-02-09,06:00,Lights,15.81,Spring,4,1.11
+Home_3,2026-02-09,07:00,Air Conditioning,-4.77,Winter,2,0.16
+Home_3,2026-02-09,08:00,Oven,29.59,Fall,2,0.67
+Home_3,2026-02-09,09:00,Fridge,28.23,Fall,2,0.82
+Home_2,2026-02-09,10:00,Heater,18.58,Spring,4,0.91
+Home_4,2026-02-09,11:00,Air Conditioning,-2.14,Winter,1,1.41
+Home_5,2026-02-09,12:00,Oven,27.96,Fall,4,1.04
+Home_1,2026-02-09,13:00,Lights,20.1,Spring,2,0.77
+Home_4,2026-02-09,14:00,Fridge,28.62,Fall,5,1.23
+Home_3,2026-02-09,15:00,Oven,27.33,Fall,3,1.43
+Home_4,2026-02-09,16:00,Lights,29.53,Fall,4,0.13
+Home_5,2026-02-09,17:00,Oven,17.27,Spring,4,1.48
+Home_1,2026-02-09,18:00,Air Conditioning,1.03,Winter,1,0.22
+Home_1,2026-02-09,19:00,Air Conditioning,23.86,Fall,1,1.24
+Home_5,2026-02-09,20:00,Air Conditioning,21.68,Spring,4,0.49
+Home_5,2026-02-09,21:00,Fridge,26.92,Fall,2,0.29
+Home_3,2026-02-09,22:00,Air Conditioning,2.3,Winter,3,0.72
+Home_1,2026-02-09,23:00,Lights,3.38,Winter,1,1.0
+Home_4,2026-02-10,00:00,Oven,33.29,Summer,2,0.63
+Home_2,2026-02-10,01:00,Heater,27.25,Fall,5,0.18
+Home_2,2026-02-10,02:00,Lights,34.05,Summer,1,0.94
+Home_5,2026-02-10,03:00,Lights,27.62,Fall,2,1.36
+Home_3,2026-02-10,04:00,Air Conditioning,20.68,Spring,2,0.64
+Home_2,2026-02-10,05:00,Fridge,23.13,Fall,3,0.4
+Home_1,2026-02-10,06:00,Oven,33.23,Summer,3,0.72
+Home_5,2026-02-10,07:00,Fridge,19.89,Spring,5,0.17
+Home_4,2026-02-10,08:00,Oven,22.19,Fall,2,1.25
+Home_5,2026-02-10,09:00,Oven,1.73,Winter,2,1.26
+Home_4,2026-02-10,10:00,Fridge,15.38,Spring,3,0.92
+Home_5,2026-02-10,11:00,Lights,25.81,Fall,1,0.59
+Home_5,2026-02-10,12:00,Oven,6.65,Winter,1,1.22
+Home_5,2026-02-10,13:00,Fridge,3.7,Winter,4,0.88
+Home_4,2026-02-10,14:00,Oven,8.49,Winter,3,1.26
+Home_4,2026-02-10,15:00,Heater,5.38,Winter,4,2.58
+Home_5,2026-02-10,16:00,Lights,4.24,Winter,3,1.2
+Home_2,2026-02-10,17:00,Air Conditioning,13.27,Spring,5,0.94
+Home_3,2026-02-10,18:00,Oven,34.04,Summer,2,0.68
+Home_3,2026-02-10,19:00,Heater,16.8,Spring,5,1.44
+Home_3,2026-02-10,20:00,Air Conditioning,3.08,Winter,3,0.86
+Home_4,2026-02-10,21:00,Air Conditioning,-1.69,Winter,2,0.95
+Home_4,2026-02-10,22:00,Oven,24.93,Fall,1,0.41
+Home_2,2026-02-10,23:00,Fridge,11.46,Spring,1,0.98
+Home_3,2026-02-11,00:00,Oven,30.34,Summer,4,0.9
+Home_3,2026-02-11,01:00,Heater,23.36,Fall,3,0.36
+Home_5,2026-02-11,02:00,Air Conditioning,29.24,Fall,3,0.18
+Home_4,2026-02-11,03:00,Oven,6.69,Winter,1,0.95
+Home_3,2026-02-11,04:00,Fridge,24.77,Fall,5,1.17
+Home_2,2026-02-11,05:00,Oven,6.35,Winter,2,0.83
+Home_2,2026-02-11,06:00,Lights,35.38,Summer,5,0.42
+Home_3,2026-02-11,07:00,Fridge,22.36,Fall,5,1.03
+Home_4,2026-02-11,08:00,Heater,8.95,Winter,1,1.41
+Home_2,2026-02-11,09:00,Air Conditioning,6.59,Winter,1,0.72
+Home_5,2026-02-11,10:00,Oven,3.21,Winter,1,0.33
+Home_2,2026-02-11,11:00,Fridge,24.87,Fall,4,0.36
+Home_1,2026-02-11,12:00,Lights,4.4,Winter,5,0.38
+Home_1,2026-02-11,13:00,Fridge,20.6,Spring,3,0.64
+Home_4,2026-02-11,14:00,Lights,6.38,Winter,2,0.17
+Home_3,2026-02-11,15:00,Heater,23.46,Fall,4,0.66
